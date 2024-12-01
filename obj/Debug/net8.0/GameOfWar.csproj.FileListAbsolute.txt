@@ -1,0 +1,14 @@
+C:\Users\Admin\Projects\GameOfWar\bin\Debug\net8.0\GameOfWar.exe
+C:\Users\Admin\Projects\GameOfWar\bin\Debug\net8.0\GameOfWar.deps.json
+C:\Users\Admin\Projects\GameOfWar\bin\Debug\net8.0\GameOfWar.runtimeconfig.json
+C:\Users\Admin\Projects\GameOfWar\bin\Debug\net8.0\GameOfWar.dll
+C:\Users\Admin\Projects\GameOfWar\bin\Debug\net8.0\GameOfWar.pdb
+C:\Users\Admin\Projects\GameOfWar\obj\Debug\net8.0\GameOfWar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Projects\GameOfWar\obj\Debug\net8.0\GameOfWar.AssemblyInfoInputs.cache
+C:\Users\Admin\Projects\GameOfWar\obj\Debug\net8.0\GameOfWar.AssemblyInfo.cs
+C:\Users\Admin\Projects\GameOfWar\obj\Debug\net8.0\GameOfWar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Projects\GameOfWar\obj\Debug\net8.0\GameOfWar.dll
+C:\Users\Admin\Projects\GameOfWar\obj\Debug\net8.0\refint\GameOfWar.dll
+C:\Users\Admin\Projects\GameOfWar\obj\Debug\net8.0\GameOfWar.pdb
+C:\Users\Admin\Projects\GameOfWar\obj\Debug\net8.0\GameOfWar.genruntimeconfig.cache
+C:\Users\Admin\Projects\GameOfWar\obj\Debug\net8.0\ref\GameOfWar.dll
