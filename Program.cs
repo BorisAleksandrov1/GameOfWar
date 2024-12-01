@@ -76,7 +76,29 @@ class Game
 
     public static void PrintRules()
     {
-        //rules
+        Console.WriteLine(
+    "============================================================\n" +
+    "                     Welcome to the Game of War!            \n" +
+    "============================================================\n" +
+    "HOW TO PLAY:\n" +
+    "+ Each of the two players are dealt one half of a shuffled deck of cards.\n" +
+    "+ Each turn, each player draws one card from their deck.\n" +
+    "+ The player that drew the card with higher value gets both cards.\n" +
+    "+ Both cards return to the winner's deck.\n" +
+    "+ If there is a draw, both players place the next three cards face down\n" +
+    "  and then another card face-up. The owner of the higher face-up\n" +
+    "  card gets all the cards on the table.\n" +
+    "\n" +
+    "HOW TO WIN:\n" +
+    "+ The player who collects all the cards wins.\n" +
+    "\n" +
+    "CONTROLS:\n" +
+    "+ Press [Enter] to draw a new card until we have a winner.\n" +
+    "\n" +
+    "Have fun!\n" +
+    "============================================================");
+
+        Console.ReadLine();
     }
 
     public static List<string> PlayerGetDeck(List<string> deck, int StartFromDeckPoss, int EndFromDeckPoss)
